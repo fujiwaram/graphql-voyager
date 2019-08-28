@@ -15,3 +15,4 @@ With GraphQL schema stored locally:
 ```
 docker run --rm -v path/to/schema.graphql:/app/schema.graphql -p 8080:80 graphql/voyager
 ```
+
